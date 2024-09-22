@@ -1,0 +1,14 @@
+*{
+    font-family: sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+body{
+    background-color: black;
+}
+h1 {
+    height: 350px;
+    font-size: 785%;
+    display: flex;
+    color: cyan;
+}
